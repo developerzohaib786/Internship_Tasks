@@ -8,7 +8,7 @@ This repository includes all the assignments, tasks, and projects completed as p
 
 ## 🏢 Company: Softechnova Enterprises  
 🔗 [LinkedIn Company Page](https://www.linkedin.com/company/softechnova-enterprises/)  
-📅 Internship Duration: (May to June)
+📅 Internship Duration: (May-2025 to June-2025)
 
 ---
 
