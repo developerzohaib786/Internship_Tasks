@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Lindsey Curtis",
+      "role": "Web Designer",
+      "project": "Agency Website",
+      "team": ["team1.jpg", "team2.jpg", "team3.jpg"],
+      "status": "Active",
+      "budget": "3.9K",
+      "avatar": "user1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kaiya George",
+      "role": "Project Manager",
+      "project": "Technology",
+      "team": ["team4.jpg", "team5.jpg"],
+      "status": "Pending",
+      "budget": "24.9K",
+      "avatar": "user2.jpg"
+    }
+  ]
+  
