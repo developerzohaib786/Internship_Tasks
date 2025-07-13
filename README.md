@@ -35,12 +35,7 @@ All tasks are completed and uploaded in the respective folders below, as per sch
 
 ```bash
 .
-├── Task 1 - Movie Review Website
-│   ├── Code
-│   ├── Screenshots
-│   └── README.md (task-specific)
-├── Task 2 - [Task Name]
-│   └── ...
-├── Task 3 - [Task Name]
-│   └── ...
+├── Task 1 - Movie Review Website in MEEN Stack
+├── Task 2 - Quiz Application in NextJS+TypeScript
+├── Task 3 - Employee Management System in MERN Stack
 └── README.md (this file)
